@@ -34,19 +34,3 @@
 git clone https://github.com/hex-3030/CRT_HEX.git
 cd CRT_HEX
 chmod +x CRT_HEX-V1.0.sh
-
-
-⚠️ Requirements: curl and jq are required.
-Install on Linux/Kali: sudo apt install jq -y
-
-
-
-🧑‍💻 Author
-GitHub: hex-3030
-
-TryHackMe: HEXD
-
-⚠️ Disclaimer
-This tool is intended for authorized security testing and educational purposes only. Use it only on systems you own or have explicit permission to test. Unauthorized use is strictly prohibited.
-
-<p align="center"> ⭐ If you find this project useful, please consider giving it a Star! ⭐ </p> ```
