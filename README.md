@@ -36,21 +36,6 @@ cd CRT_HEX
 chmod +x CRT_HEX-V1.0.sh
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 🧑‍💻 Author
@@ -66,6 +51,4 @@ This tool is intended for **authorized security testing and educational purposes
 
 ---
 
-<p align="center">
-  ⭐ If you find this project useful, please consider giving it a Star! ⭐
-</p>
+### ⭐ If you find this project useful, please consider giving it a Star! ⭐
