@@ -38,19 +38,6 @@ chmod +x CRT_HEX-V1.0.sh
 
 ---
 
-## 🧑‍💻 Author
-
-- **GitHub:** [hex-3030](https://github.com/hex-3030)
-- **TryHackMe:** [HEXD](https://tryhackme.com/p/HEXD)
-
----
-
-## ⚠️ Disclaimer
-
-This tool is intended for **authorized security testing and educational purposes only**. Use it only on systems you own or have explicit permission to test. Unauthorized use is strictly prohibited.
-
----
-
 <p align="center">
   ⭐ If you find this project useful, please consider giving it a Star! ⭐
 </p>
