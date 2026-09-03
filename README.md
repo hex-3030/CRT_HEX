@@ -33,7 +33,7 @@
 ```bash
 git clone https://github.com/hex-3030/CRT_HEX.git
 cd CRT_HEX
-chmod +x CRT_HEX-V1.0.sh
+chmod +x CRT_HEX-V2.0.sh
 ```
 ---
 
