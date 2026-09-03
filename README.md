@@ -33,11 +33,21 @@
 ```bash
 git clone https://github.com/hex-3030/CRT_HEX.git
 cd CRT_HEX
-chmod +x CRT_HEX-V1.0.sh
+chmod +x CRT_HEX-V1.0.sh```
 
+⚠️ Requirements: curl and jq are required.
+Install on Linux/Kali: sudo apt install jq -y
 
----
+🎯 Usage
+bash
+# Basic scan
+./CRT_HEX-V1.0.sh -d example.com
 
-<p align="center">
-  ⭐ If you find this project useful, please consider giving it a Star! ⭐
-</p>
+# Generate Mr. Robot themed HTML report
+./CRT_HEX-V1.0.sh -d example.com --html report.html
+
+# Generate text output
+./CRT_HEX-V1.0.sh -d example.com -o output.txt
+
+# Limit the results
+./CRT_HEX-V1.0.sh -d example.com --limit 50
